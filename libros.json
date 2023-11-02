@@ -1,0 +1,85 @@
+[{
+    "id": 1,
+    "imagen": "./img/libro-1.webp",
+    "nombre": "Derecho de imagen y sponsoreo en el deporte",
+    "precio": 11150,
+    "stock": 5
+},
+{
+    "id": 2,
+    "imagen": "./img/libro-2.webp",
+    "nombre": "Legislación Policial Penal",
+    "precio": 12500,
+    "stock": 5
+},
+{
+    "id": 3,
+    "imagen": "./img/libro-3.webp",
+    "nombre": "Cuantificando Daños",
+    "precio": 12150,
+    "stock": 5
+},
+{
+    "id": 4,
+    "imagen": "./img/libro-4.webp",
+    "nombre": "La Construcción del Escrito Jurídico",
+    "precio": 14150,
+    "stock": 5
+},
+{
+    "id": 5,
+    "imagen": "./img/libro-5.webp",
+    "nombre": "Derecho Procesal Electronico",
+    "precio": 14650,
+    "stock": 5
+},
+{
+    "id": 6,
+    "imagen": "./img/libro-6.webp",
+    "nombre": "Liquidación y Partición del Régimen de Bienes en el Matrimonio",
+    "precio": 9250,
+    "stock": 5
+},
+{
+    "id": 7,
+    "imagen": "./img/libro-7.webp",
+    "nombre": "Tratado Práctico De Derecho Del Trabajo",
+    "precio": 25750,
+    "stock": 5
+},
+{
+    "id": 8,
+    "imagen": "./img/libro-8.webp",
+    "nombre": "Amparos En Salud y Discapacidad",
+    "precio": 10250,
+    "stock": 5
+},
+{
+    "id": 9,
+    "imagen": "./img/libro-9.webp",
+    "nombre": "Código Procesal Civil y Comercial de la Nación",
+    "precio": 8500,
+    "stock": 5
+},
+{
+    "id": 10,
+    "imagen": "./img/libro-10.webp",
+    "nombre": "Código Procesal Penal de la Nación",
+    "precio": 3000,
+    "stock": 5
+},
+{
+    "id": 11,
+    "imagen": "./img/libro-11.webp",
+    "nombre": "Código Civil y Comercial de la Nación - Tomo 5",
+    "precio": 14100,
+    "stock": 5
+},
+{
+    "id": 12,
+    "imagen": "./img/libro-12.webp",
+    "nombre": "Codigo Procesal Civil y Comercial",
+    "precio": 8500,
+    "stock": 5
+}
+]
